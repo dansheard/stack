@@ -60,3 +60,7 @@ gem 'simple_form'
 
 #  add active admin to the site
 gem 'activeadmin', github: "gregbell/active_admin"
+
+# gems for scraping reddit
+gem 'httparty'
+gem 'nokogiri'
